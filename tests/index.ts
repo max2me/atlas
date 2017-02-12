@@ -1,3 +1,3 @@
 declare var require: any;
 
-require('./FirstSpec.ts');
+require('./BasicsSpec.ts');
